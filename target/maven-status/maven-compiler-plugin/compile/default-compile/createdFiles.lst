@@ -1,0 +1,9 @@
+com\ToDoList\model\User.class
+com\ToDoList\repository\TaskRepository.class
+com\ToDoList\repository\UserRepository.class
+com\ToDoList\service\UserService.class
+com\ToDoList\service\TaskService.class
+com\ToDoList\controller\TaskController.class
+com\ToDoList\ToDoListApplication.class
+com\ToDoList\controller\UserController.class
+com\ToDoList\model\Task.class
