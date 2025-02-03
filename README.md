@@ -4,7 +4,7 @@ Descrição:
 
 Este é um projeto de exemplo que utiliza Spring Boot para gerenciar uma lista de tarefas associadas a usuários. O projeto inclui endpoints REST para criar, ler, atualizar e deletar usuários e tarefas.
 
-Tecnologias Utilizadas Java 17
+Tecnologias Utilizadas Java 21
 
 Spring Boot 2.7.3
 
